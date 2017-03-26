@@ -1,12 +1,12 @@
-# Hotel - Em construção
+Desafio Hotel Check-in - Angular 2
 
-## Itens necessarios para rodar a aplicação
+## Itens necessarios
 ```
     >> npm install -g angular-cli
     >> npm install extract-text-webpack-plugin@2.0.0-rc.0 --save-dev
 ```
 
-## Inicialização da Aplica;áo
+## Inicialização da Aplicação
 
 ```
     ng serve
